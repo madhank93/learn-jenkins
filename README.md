@@ -12,7 +12,7 @@ Originally developed for continuous integration (CI), today Jenkins orchestrates
 
 <details>
 
-  <summary> 1. How to install Jenkins ? </summary>
+  <summary> 1. How to download Jenkins for Docker ? </summary>
 
   <p>
 
